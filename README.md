@@ -36,11 +36,11 @@ THEN I find a concise, descriptive title
 
 ## Review
 
-You are required to submit the following for review:
+Deployed Website URL: https://github.com/mikejmarin25/Challenge-01
 
-* The URL of the deployed application.
+## Changes Made
 
-* The URL of the GitHub repository. Give the repository a unique name and include a professional README describing the project.
+added semantic tags, combined css styling components 
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
