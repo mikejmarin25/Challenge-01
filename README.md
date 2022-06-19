@@ -38,5 +38,9 @@ THEN I find a concise, descriptive title
 
 Deployed Website URL: https://github.com/mikejmarin25/Challenge-01
 
+## changes made
+
+added semantic tags, combined css styling components 
+
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
