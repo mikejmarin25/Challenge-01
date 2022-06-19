@@ -38,7 +38,7 @@ THEN I find a concise, descriptive title
 
 Deployed Website URL: https://github.com/mikejmarin25/Challenge-01
 
-## changes made
+## Changes Made
 
 added semantic tags, combined css styling components 
 
